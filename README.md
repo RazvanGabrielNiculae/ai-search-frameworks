@@ -209,6 +209,10 @@ The reference library explains the broader system; focused repositories provide 
 - [Soft 404 Audit Tools](https://github.com/RazvanGabrielNiculae/soft-404-audit-tools) — soft-404 candidate detection from supplied status, title, word-count and template signals.
 - [Retrieval Evaluation Audit Tools](https://github.com/RazvanGabrielNiculae/retrieval-evaluation-audit-tools) — ranked retrieval evaluation against supplied relevance labels.
 - [Source Provenance Chain Audit Tools](https://github.com/RazvanGabrielNiculae/source-provenance-chain-audit-tools) — provenance-graph checks for unsupported claims, missing origins and cycles.
+- [Faceted URL Audit Tools](https://github.com/RazvanGabrielNiculae/faceted-url-audit-tools) — faceted parameter proliferation and duplicate URL-variant diagnostics.
+- [Pagination Discovery Audit Tools](https://github.com/RazvanGabrielNiculae/pagination-discovery-audit-tools) — sequence-gap, duplicate-page-number and canonical-pattern checks for pagination inventories.
+- [Location Page Coverage Audit Tools](https://github.com/RazvanGabrielNiculae/location-page-coverage-audit-tools) — service and local-evidence coverage checks for supplied location-page matrices.
+- [Product Variant Identity Audit Tools](https://github.com/RazvanGabrielNiculae/product-variant-identity-audit-tools) — parent identity, SKU uniqueness and variant-attribute completeness checks.
 
 These are companion projects, not a backlink ring: use the focused tool only when its narrower validation model fits the task.
 
