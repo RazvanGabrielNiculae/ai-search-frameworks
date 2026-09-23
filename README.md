@@ -185,6 +185,7 @@ The reference library explains the broader system; focused repositories provide 
 - [Entity SEO Toolkit](https://github.com/RazvanGabrielNiculae/entity-seo-toolkit) — canonical identity and entity-consistency auditing.
 - [Hreflang Audit Tools](https://github.com/RazvanGabrielNiculae/hreflang-audit-tools) — canonical, language and hreflang checks for multilingual pages.
 - [Structured Data Audit Tools](https://github.com/RazvanGabrielNiculae/structured-data-audit-tools) — JSON-LD and Article identity checks for explicit structured-data invariants.
+- [Robots Policy Audit Tools](https://github.com/RazvanGabrielNiculae/robots-policy-audit-tools) — crawler-specific robots.txt access-policy checks with explicit access-vs-indexing boundaries.
 
 These are companion projects, not a backlink ring: use the focused tool only when its narrower validation model fits the task.
 
