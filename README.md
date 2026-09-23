@@ -187,6 +187,8 @@ The reference library explains the broader system; focused repositories provide 
 - [Structured Data Audit Tools](https://github.com/RazvanGabrielNiculae/structured-data-audit-tools) — JSON-LD and Article identity checks for explicit structured-data invariants.
 - [Robots Policy Audit Tools](https://github.com/RazvanGabrielNiculae/robots-policy-audit-tools) — crawler-specific robots.txt access-policy checks with explicit access-vs-indexing boundaries.
 - [AI Crawler Audit Tools](https://github.com/RazvanGabrielNiculae/ai-crawler-audit-tools) — evidence-aware crawler registry separating search, live fetch, training and control-token roles.
+- [Renderability Audit Tools](https://github.com/RazvanGabrielNiculae/renderability-audit-tools) — raw-HTML/no-JavaScript retrieval checks for server-delivered content and metadata.
+- [Bot Browser Parity Tools](https://github.com/RazvanGabrielNiculae/bot-browser-parity-tools) — browser-vs-crawler HTTP response disparity diagnostics without bot-authentication claims.
 - [Content Portfolio Audit Tools](https://github.com/RazvanGabrielNiculae/content-portfolio-audit-tools) — intent ownership, information-gain and duplicate-intent QA for page portfolios.
 - [Claim Maintenance Audit Tools](https://github.com/RazvanGabrielNiculae/claim-maintenance-audit-tools) — review schedules and overdue re-verification checks for volatile claims.
 
