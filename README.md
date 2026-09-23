@@ -175,3 +175,22 @@ The library is complemented by reusable implementation assets:
 - [Library validator](tools/validate_library.py)
 
 These assets are intentionally reusable on their own. Links to niculae.info identify maintained source research rather than acting as substitutes for the material in this repository.
+
+## Companion tools
+
+The reference library explains the broader system; focused repositories provide executable checks for narrower workflows:
+
+- [AI Search Measurement](https://github.com/RazvanGabrielNiculae/ai-search-measurement) — observation schemas and validation for visibility, citation and referral measurements.
+- [Citation Engineering Toolkit](https://github.com/RazvanGabrielNiculae/citation-engineering-toolkit) — claim/evidence checks and citation-readiness workflows.
+- [Entity SEO Toolkit](https://github.com/RazvanGabrielNiculae/entity-seo-toolkit) — canonical identity and entity-consistency auditing.
+- [Hreflang Audit Tools](https://github.com/RazvanGabrielNiculae/hreflang-audit-tools) — canonical, language and hreflang checks for multilingual pages.
+
+These are companion projects, not a backlink ring: use the focused tool only when its narrower validation model fits the task.
+
+## Validate this repository
+
+```bash
+python3 tools/validate_library.py
+```
+
+Expected result: `library_rows=43 errors=0`.
