@@ -197,6 +197,18 @@ The reference library explains the broader system; focused repositories provide 
 - [Retrieval Content Audit Tools](https://github.com/RazvanGabrielNiculae/retrieval-content-audit-tools) — deterministic passage/chunk diagnostics over supplied content datasets.
 - [Social Search Audit Tools](https://github.com/RazvanGabrielNiculae/social-search-audit-tools) — consistency checks for supplied social and video profile metadata.
 - [Governance Artifact Audit Tools](https://github.com/RazvanGabrielNiculae/governance-artifact-audit-tools) — completeness checks for governance, data-contract, risk-register and operating-model artifacts.
+- [Unlinked Brand Mention Audit Tools](https://github.com/RazvanGabrielNiculae/unlinked-brand-mention-audit-tools) — supplied mention records classified into linked/unlinked brand evidence and domain concentration.
+- [Topic Coverage Audit Tools](https://github.com/RazvanGabrielNiculae/topic-coverage-audit-tools) — expected-topic coverage gaps and duplicate topic ownership checks.
+- [Buying Committee Coverage Tools](https://github.com/RazvanGabrielNiculae/buying-committee-coverage-tools) — role × journey-stage evidence coverage for B2B content programs.
+- [Localization Parity Audit Tools](https://github.com/RazvanGabrielNiculae/localization-parity-audit-tools) — multilingual field parity, missing-translation and update-date skew diagnostics.
+- [Sitemap Integrity Audit Tools](https://github.com/RazvanGabrielNiculae/sitemap-integrity-audit-tools) — duplicate URL, status and canonical checks over supplied sitemap inventories.
+- [Crawl Log Audit Tools](https://github.com/RazvanGabrielNiculae/crawl-log-audit-tools) — crawl-log status, bot concentration and repeated-path diagnostics.
+- [Performance Crawlability Audit Tools](https://github.com/RazvanGabrielNiculae/performance-crawlability-audit-tools) — latency and transfer-size outlier checks over supplied performance exports.
+- [Semantic HTML Audit Tools](https://github.com/RazvanGabrielNiculae/semantic-html-audit-tools) — semantic landmark, H1 and descriptive-link-text checks for local HTML.
+- [Redirect Chain Audit Tools](https://github.com/RazvanGabrielNiculae/redirect-chain-audit-tools) — redirect-loop and excessive-hop diagnostics over supplied redirect maps.
+- [Soft 404 Audit Tools](https://github.com/RazvanGabrielNiculae/soft-404-audit-tools) — soft-404 candidate detection from supplied status, title, word-count and template signals.
+- [Retrieval Evaluation Audit Tools](https://github.com/RazvanGabrielNiculae/retrieval-evaluation-audit-tools) — ranked retrieval evaluation against supplied relevance labels.
+- [Source Provenance Chain Audit Tools](https://github.com/RazvanGabrielNiculae/source-provenance-chain-audit-tools) — provenance-graph checks for unsupported claims, missing origins and cycles.
 
 These are companion projects, not a backlink ring: use the focused tool only when its narrower validation model fits the task.
 
