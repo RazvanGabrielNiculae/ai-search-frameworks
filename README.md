@@ -191,6 +191,12 @@ The reference library explains the broader system; focused repositories provide 
 - [Bot Browser Parity Tools](https://github.com/RazvanGabrielNiculae/bot-browser-parity-tools) — browser-vs-crawler HTTP response disparity diagnostics without bot-authentication claims.
 - [Content Portfolio Audit Tools](https://github.com/RazvanGabrielNiculae/content-portfolio-audit-tools) — intent ownership, information-gain and duplicate-intent QA for page portfolios.
 - [Claim Maintenance Audit Tools](https://github.com/RazvanGabrielNiculae/claim-maintenance-audit-tools) — review schedules and overdue re-verification checks for volatile claims.
+- [Multimodal Search Audit Tools](https://github.com/RazvanGabrielNiculae/multimodal-search-audit-tools) — local HTML checks for image, video and structured multimodal signals.
+- [Ecommerce Feed Consistency Tools](https://github.com/RazvanGabrielNiculae/ecommerce-feed-consistency-tools) — supplied-feed versus page-data consistency checks for product fields.
+- [Technical Indexability Audit Tools](https://github.com/RazvanGabrielNiculae/technical-indexability-audit-tools) — URL-inventory diagnostics for HTTP status, canonical, robots and redirects.
+- [Retrieval Content Audit Tools](https://github.com/RazvanGabrielNiculae/retrieval-content-audit-tools) — deterministic passage/chunk diagnostics over supplied content datasets.
+- [Social Search Audit Tools](https://github.com/RazvanGabrielNiculae/social-search-audit-tools) — consistency checks for supplied social and video profile metadata.
+- [Governance Artifact Audit Tools](https://github.com/RazvanGabrielNiculae/governance-artifact-audit-tools) — completeness checks for governance, data-contract, risk-register and operating-model artifacts.
 
 These are companion projects, not a backlink ring: use the focused tool only when its narrower validation model fits the task.
 
