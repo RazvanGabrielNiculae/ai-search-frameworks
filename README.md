@@ -157,3 +157,21 @@ This repository currently maps **43 flagship topics / 86 maintained EN+RO source
 - [Claim/evidence matrix](templates/claim-evidence-matrix.csv)
 - [AI visibility measurement schema](templates/ai-visibility-measurement.csv)
 - [Flagship source manifest](datasets/flagship-sources.csv)
+
+## Practical toolkit
+
+The library is complemented by reusable implementation assets:
+
+- [AI Search page audit](checklists/ai-search-page-audit.md)
+- [Citation readiness checklist](checklists/citation-readiness.md)
+- [Entity consistency checklist](checklists/entity-consistency.md)
+- [International AI Search checklist](checklists/international-ai-search.md)
+- [AI Search system diagram](diagrams/ai-search-system.mmd)
+- [Implementation loop diagram](diagrams/implementation-loop.mmd)
+- [Experiment log](templates/experiment-log.csv)
+- [Source verification schema](templates/source-verification.csv)
+- [Query-set schema](templates/query-set.csv)
+- [Measurement example](examples/measurement-example.md)
+- [Library validator](tools/validate_library.py)
+
+These assets are intentionally reusable on their own. Links to niculae.info identify maintained source research rather than acting as substitutes for the material in this repository.
