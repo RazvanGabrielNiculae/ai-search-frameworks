@@ -186,6 +186,8 @@ The reference library explains the broader system; focused repositories provide 
 - [Hreflang Audit Tools](https://github.com/RazvanGabrielNiculae/hreflang-audit-tools) — canonical, language and hreflang checks for multilingual pages.
 - [Structured Data Audit Tools](https://github.com/RazvanGabrielNiculae/structured-data-audit-tools) — JSON-LD and Article identity checks for explicit structured-data invariants.
 - [Robots Policy Audit Tools](https://github.com/RazvanGabrielNiculae/robots-policy-audit-tools) — crawler-specific robots.txt access-policy checks with explicit access-vs-indexing boundaries.
+- [Content Portfolio Audit Tools](https://github.com/RazvanGabrielNiculae/content-portfolio-audit-tools) — intent ownership, information-gain and duplicate-intent QA for page portfolios.
+- [Claim Maintenance Audit Tools](https://github.com/RazvanGabrielNiculae/claim-maintenance-audit-tools) — review schedules and overdue re-verification checks for volatile claims.
 
 These are companion projects, not a backlink ring: use the focused tool only when its narrower validation model fits the task.
 
