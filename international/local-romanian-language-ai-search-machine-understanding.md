@@ -90,29 +90,9 @@ Sources reviewed
 
 - Google Search Essentials: https://developers.google.com/search/docs/essentials
 
-Related insights
-
-- AI Recommendations for Nearby Businesses: Governance, Measurement, and Anti-Spam Rules
-
-- AI Recommendations for Nearby Businesses: Technical Signals, Entity Signals, and Trust Signals
-
-- AI Recommendations for Nearby Businesses: What Search Engines and AI Systems Can Actually Understand
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/local-romanian-language-ai-search-machine-understanding/)
 - [Romanian counterpart](https://niculae.info/ro/blog/local-romanian-language-ai-search-machine-understanding/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

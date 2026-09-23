@@ -92,9 +92,6 @@ The first discipline is therefore a metric contract. Every number needs a define
 
 The second discipline is cohort stability. If ten pages are changed, record which ten and when. Compare the same URLs before and after, then inspect whether any movement appears in citation, referral, engagement or conversion layers. This does not prove causality, but it creates a reproducible observation instead of anecdotal screenshots.
 
-Applied question for this article
-
-The specific decision is Branded Mention Measurement. Use the principle in the short answer as the hypothesis to test; document one concrete page, source or workflow where it applies; then record one counterexample or condition where it does not. This keeps the article tied to its own intent instead of drifting into generic AI-search advice.
 
 Sources reviewed
 
@@ -104,29 +101,9 @@ Sources reviewed
 
 - OpenAI — ChatGPT Search: https://help.openai.com/en/articles/9237897-chatgpt-search
 
-Related insights
-
-- AI Brand Mentions: A Repeatable Framework for Editorial and Technical Teams
-
-- AI Brand Mentions: Common Failure Modes and How to Diagnose Them
-
-- AI Brand Mentions: How to Make Content Easier to Retrieve, Verify, and Cite
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/branded-mention-measurement/)
 - [Romanian counterpart](https://niculae.info/ro/blog/branded-mention-measurement/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

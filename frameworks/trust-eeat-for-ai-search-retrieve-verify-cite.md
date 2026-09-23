@@ -90,29 +90,9 @@ Sources reviewed
 
 - Bing Webmaster Blog — AI Performance: https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview
 
-Related insights
-
-- AI Content Governance: Preventing Hallucinated Claims, Stale Facts and Scaled-Content Risk
-
-- AI-generated Misinformation: A Repeatable Framework for Editorial and Technical Teams
-
-- AI-generated Misinformation: Common Failure Modes and How to Diagnose Them
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/trust-eeat-for-ai-search-retrieve-verify-cite/)
 - [Romanian counterpart](https://niculae.info/ro/blog/trust-eeat-for-ai-search-retrieve-verify-cite/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

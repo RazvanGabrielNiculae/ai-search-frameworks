@@ -66,9 +66,6 @@ That changes the editorial question from “How do I rank this exact prompt?” 
 
 For niculae.info, this means Google-specific articles should stay connected to classic SEO foundations: crawlable HTML, canonical ownership, internal linking, useful headings, people-first depth and claims that can be traced back to Google's own documentation where platform behavior is discussed.
 
-Applied question for this article
-
-The specific decision is AI Mode Multimodal Search. Use the principle in the short answer as the hypothesis to test; document one concrete page, source or workflow where it applies; then record one counterexample or condition where it does not. This keeps the article tied to its own intent instead of drifting into generic AI-search advice.
 
 Sources reviewed
 
@@ -78,29 +75,9 @@ Sources reviewed
 
 - Google Search Central — Canonicalization: https://developers.google.com/search/docs/crawling-indexing/canonicalization
 
-Related insights
-
-- A Google AI Visibility Audit: 12 Checks for Technical, Content and Measurement Readiness
-
-- AI Mode Deep Search: A Step-by-Step Audit and Implementation Guide
-
-- AI Mode Deep Search: Designing Evidence for Complex Research Journeys
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/google-ai-mode-multimodal-search/)
 - [Romanian counterpart](https://niculae.info/ro/blog/google-ai-mode-multimodal-search/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

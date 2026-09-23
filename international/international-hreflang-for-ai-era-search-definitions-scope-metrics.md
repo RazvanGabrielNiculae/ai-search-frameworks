@@ -90,29 +90,9 @@ Sources reviewed
 
 - Schema.org — inLanguage: https://schema.org/inLanguage
 
-Related insights
-
-- Country-Specific Entities: Definitions, Scope, Metrics, and Practical Implications
-
-- Country-Specific Entities: Evidence, Misconceptions, Risks, and a Practical Checklist
-
-- Country-Specific Entities: What Changed, What Did Not, and What Marketers Should Do Next
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/international-hreflang-for-ai-era-search-definitions-scope-metrics/)
 - [Romanian counterpart](https://niculae.info/ro/blog/international-hreflang-for-ai-era-search-definitions-scope-metrics/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

@@ -243,6 +243,37 @@ Editorial
 - cover the complete decision context, not just the head keyword;
 
 - use descriptive headings;
+- distinguish facts from opinions;
+- cite primary sources close to important claims;
+- add original examples, frameworks, data or analysis;
+- update time-sensitive claims deliberately.
+
+Measurement
+
+- track Search Console normally;
+- segment AI referral sources where observable;
+- record citation tests separately from traffic data;
+- do not confuse citation frequency with a proven ranking factor;
+- review content that earns repeated citations and identify why it is useful.
+
+Common myths
+
+- GEO does not replace SEO; technical weakness is not fixed by changing the acronym.
+- Google does not require special AI-specific schema for AI Overviews or AI Mode.
+- More FAQ markup is not automatically better AEO; questions and answers must improve the page.
+- Citation frequency is an observation, not proof of a ranking factor.
+
+Executive decision summary
+
+Treat SEO, AEO and GEO as layers of one system: establish technical discoverability, improve retrieval and entity coherence, make answers explicit, support claims with evidence, add original information worth citing, then measure citations and referrals within observable platform limits.
+
+Sources reviewed
+
+- https://developers.google.com/search/docs/appearance/ai-features
+- https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+- https://help.openai.com/en/articles/12627856
+- https://help.openai.com/en/articles/9237897
+- https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview
 
 ## Source articles
 

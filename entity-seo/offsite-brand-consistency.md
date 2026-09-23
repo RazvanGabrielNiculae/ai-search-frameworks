@@ -84,9 +84,6 @@ The content system should preserve that specificity rather than forcing every to
 
 Attribution remains imperfect. Treat citations, mentions, referrals and conversions as stages with different evidentiary strength. Report direct observations as direct observations and assisted influence as assisted influence. Commercial usefulness increases when measurement language is as disciplined as the content itself.
 
-Applied question for this article
-
-The specific decision is Off-Site Brand Consistency. Use the principle in the short answer as the hypothesis to test; document one concrete page, source or workflow where it applies; then record one counterexample or condition where it does not. This keeps the article tied to its own intent instead of drifting into generic AI-search advice.
 
 Sources reviewed
 
@@ -96,29 +93,9 @@ Sources reviewed
 
 - Bing Webmaster Blog — AI Performance in Bing Webmaster Tools: https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview
 
-Related insights
-
-- Community Citations: Governance, Measurement, and Anti-Spam Rules
-
-- Community Citations: Technical Signals, Entity Signals, and Trust Signals
-
-- Community Citations: What Search Engines and AI Systems Can Actually Understand
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/offsite-brand-consistency/)
 - [Romanian counterpart](https://niculae.info/ro/blog/offsite-brand-consistency/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

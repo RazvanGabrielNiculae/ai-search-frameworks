@@ -84,9 +84,6 @@ The practical implication is to separate three questions: can OAI-SearchBot fetc
 
 Measurement is also bounded. Identifiable referral traffic captures visits, while citations or mentions can occur without a click. A defensible report therefore keeps access, citation/mention observations, referrals and conversions in separate columns rather than turning them into one synthetic “ChatGPT score”.
 
-Applied question for this article
-
-The specific decision is Measuring ChatGPT Search Visibility. Use the principle in the short answer as the hypothesis to test; document one concrete page, source or workflow where it applies; then record one counterexample or condition where it does not. This keeps the article tied to its own intent instead of drifting into generic AI-search advice.
 
 Sources reviewed
 
@@ -96,29 +93,9 @@ Sources reviewed
 
 - Google Search Central — robots.txt specification: https://developers.google.com/crawling/docs/robots-txt/robots-txt-spec
 
-Related insights
-
-- Canonical URLs for ChatGPT Discovery: Reducing Duplicate Source Ambiguity
-
-- ChatGPT Brand Mentions: A Repeatable Framework for Editorial and Technical Teams
-
-- ChatGPT Brand Mentions: Common Failure Modes and How to Diagnose Them
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/chatgpt-search-measurement/)
 - [Romanian counterpart](https://niculae.info/ro/blog/chatgpt-search-measurement/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

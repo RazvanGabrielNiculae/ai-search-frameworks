@@ -104,9 +104,6 @@ Originality also needs provenance. First-party data should disclose population a
 
 For scaled publishing, this is the quality gate that matters most. Volume is acceptable only when each URL owns a distinct task and can point to a concrete information contribution. The editorial system should reject pages that merely restate the same advice under a new headline.
 
-Applied question for this article
-
-The specific decision is Information Gain in SEO. Use the principle in the short answer as the hypothesis to test; document one concrete page, source or workflow where it applies; then record one counterexample or condition where it does not. This keeps the article tied to its own intent instead of drifting into generic AI-search advice.
 
 Sources reviewed
 
@@ -116,29 +113,9 @@ Sources reviewed
 
 - Bing Webmaster Blog — AI Performance in Bing Webmaster Tools: https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview
 
-Related insights
-
-- Case-Study Evidence: A Repeatable Framework for Editorial and Technical Teams
-
-- Case-Study Evidence: Common Failure Modes and How to Diagnose Them
-
-- Case-Study Evidence: How to Make Content Easier to Retrieve, Verify, and Cite
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/information-gain-seo/)
 - [Romanian counterpart](https://niculae.info/ro/blog/information-gain-seo/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

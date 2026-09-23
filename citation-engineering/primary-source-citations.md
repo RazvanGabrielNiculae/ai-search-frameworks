@@ -104,9 +104,6 @@ Primary sources are preferable when the claim concerns a platform's own policy, 
 
 A mature source policy also tracks time. Source recency should therefore follow claim volatility. Stable definitions can age well; interfaces, prices, crawling rules and product capabilities require active review.
 
-Applied question for this article
-
-The specific decision is Primary-Source Citations. Use the principle in the short answer as the hypothesis to test; document one concrete page, source or workflow where it applies; then record one counterexample or condition where it does not. This keeps the article tied to its own intent instead of drifting into generic AI-search advice.
 
 Sources reviewed
 
@@ -116,29 +113,9 @@ Sources reviewed
 
 - OpenAI — Publishers and Developers FAQ: https://help.openai.com/en/articles/12627856
 
-Related insights
-
-- Citation-Ready Definitions: Governance, Measurement, and Anti-Spam Rules
-
-- Citation-Ready Definitions: Technical Signals, Entity Signals, and Trust Signals
-
-- Citation-Ready Definitions: What Search Engines and AI Systems Can Actually Understand
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/primary-source-citations/)
 - [Romanian counterpart](https://niculae.info/ro/blog/primary-source-citations/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.

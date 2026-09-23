@@ -176,29 +176,9 @@ Sources reviewed
 
 - Bing Webmaster Blog — Introducing AI Performance in Bing Webmaster Tools Public Preview: https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview
 
-Related insights
-
-- AI SEO vs Traditional SEO: What Changes and What Does Not
-
-- Brand Mentions vs Source Citations in AI Search: What Should You Measure?
-
-- Dual Optimization for Search and AI: How to Build Pages That Work in Both
-
-About the author
-
-Razvan G. Niculae
-
-Marketing & AI Transformation Executive
-
-Razvan G. Niculae brings 18+ years across growth, brand, MarTech and software systems. He connects executive strategy with hands-on execution — from performance marketing and AI search to automation, SaaS and full-stack platforms — with a focus on measurable growth, operational leverage and durable digital capability.
-
-Executive profile
+Sources reviewed
 
 ## Source articles
 
 - [English source](https://niculae.info/blog/ai-citations-vs-organic-rankings/)
 - [Romanian counterpart](https://niculae.info/ro/blog/ai-citations-vs-organic-rankings/)
-
-## Reuse notes
-
-Use this reference to define scope, implementation checks, evidence boundaries and measurement. Validate platform-specific behavior against current primary documentation before treating it as a live product capability.
